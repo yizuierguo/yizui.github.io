@@ -3,15 +3,15 @@ title: 一醉的菜园子
 SEOTitle: 一醉的菜园子 | 一醉的github博客
 header-img: img/post-bg-desk.jpg
 email: yizuierguo@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+description: "一醉的菜园子"
+keyword: "yizui, yizui Blog, 一醉的博客, html,css,javascript,nodejs"
 url: "http://yizuierguo.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/yizuierguo/yizuierguo.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "前端爱好者，最近在痴迷Vue.js，Electron，nodejs，数据可视化"
 sidebar-avatar: /img/avatar-by.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -19,9 +19,9 @@ sidebar-avatar: /img/avatar-by.jpeg      # use absolute URL, seeing it's used in
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
+zhihu_username:     yizuierguo
+github_username:    yizuierguo
+#facebook_username:  baiying.qiu.7
 jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
@@ -99,11 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "掘金",
+        href: "https://juejin.im"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "知乎专栏|一醉的菜园子",
+        href: "https://zhuanlan.zhihu.com/yizuierguo"
     },{
         title: "Apple",
         href: "https://apple.com"
