@@ -49,7 +49,7 @@ description: "Hey"	   	   # 随便说点，描述一下
 
 # SNS settings      
 github_username: qiubaiying     # 你的github账号
-jianshu_username: e71990ada2fd  # 你的简书ID。
+jianshu_username: 27240bd4b7e0  # 你的简书ID。
 
 # Build settings
 # paginate: 10              # 一页你准备放几篇文章
